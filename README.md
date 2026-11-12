@@ -4,6 +4,8 @@ I passed the **AWS Certified Data Engineer – Associate Exam** on November 22nd
 
 I hope they are useful to you 😊​
 
+> **Exam guide update:** AWS published version 1.1 of the DEA-C01 exam guide on 12 December 2025, after these notes were written. It removes AWS Cloud9, AWS CodeCommit and AWS SCT from the in-scope services, adds Amazon Aurora, Amazon Q, Amazon Bedrock, Amazon Kendra, AWS Data Exchange and Amazon S3 Tables, and adds skills such as using LLMs for data processing, open table formats (Apache Iceberg), vector index types and SageMaker Unified Studio. See the [revisions page](https://docs.aws.amazon.com/aws-certification/latest/data-engineer-associate-01/dea-01-revisions.html).
+
 ## Contents
 
 ### Analytics
@@ -144,3 +146,4 @@ It depends on your level of expertise. For me, it took about 40 hours to review 
 - [Practice Exams | AWS Certified Data Engineer Associate 2024](https://www.udemy.com/course/practice-exams-aws-certified-data-engineer-associate/?couponCode=24T4MT120424)
 - [AWS Certified Data Engineer Associate DEA-C01 Practice Exam 2024](https://portal.tutorialsdojo.com/courses/aws-certified-data-engineer-associate-practice-exam-dea-c01/)
 - [Practice Exams | AWS Certified Data Engineer - Associate](https://www.udemy.com/course/practice-exams-aws-certified-data-engineer-associate-r/?couponCode=24T4MT120424)
+- [ExamCrest DEA-C01 free sample questions](https://examcrest.com/exam/aws-dea-c01/free-questions?utm_source=github&utm_campaign=lauragalera-dea) - free, no signup (full mock tests are paid)
